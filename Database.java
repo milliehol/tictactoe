@@ -1,4 +1,4 @@
-package exercise.murach.com.tictactoemod;
+
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -9,7 +9,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
 
 /**
- * Created by User on 2/28/2017.
+ * Created by Carla Holcomb.
  */
 
 public class Database extends SQLiteOpenHelper {
