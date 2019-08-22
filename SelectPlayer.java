@@ -1,4 +1,3 @@
-package exercise.murach.com.tictactoemod;
 
 import android.content.Intent;
 import android.database.Cursor;
